@@ -1,0 +1,4 @@
+Git Homework
+Name: Aizhan
+Date: 2026
+This is my first Git repository.
